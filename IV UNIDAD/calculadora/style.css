@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(221, 124, 124);
+    text-align: center;
+    margin-top: 50px;
+
+}
+h1 {
+    color:rgb(166, 222, 222);
+    margin: 10px;
+    font-size: 18px;
+}
+
+input{
+    padding: 10px;
+    witdh: 200px;
+    border: 1px solid rgb(221, 122, 122);
+    border-radius: 5px;
+    font-size: 16px;
+}
+butoon{
+    padding: 10px 20px;
+    margin: none;
+    border-radius: 5px;
+    background-color: rgb(13, 41, 81);
+    color:rgb(69, 16, 117);
+    font-size: 18px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(187, 129, 59);
+}
+
+#resultado {
+    color:rgb(10, 69, 49);
+    margin-top: 20px;
+
+}
